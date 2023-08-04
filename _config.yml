@@ -18,19 +18,19 @@ site-keywords: programmer, developer, dev, portfolio, Top, Best, pepe
 favicon-url: 
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
-heroimage: https://github.com/C4P5/CAPS.github.io/blob/master/assets/images/Portfolio%20IdeaJUICYASF.png
+heroimage: https://raw.githubusercontent.com/C4P5/CAPS.github.io/master/assets/images/Portfolio%20IdeaJUICYASF.png
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
 email: info.mfcaps@gmail.com
-twitter_username: 
+twitter_username:/
 instagram_username: c4p0l4.eth
-linkedin_username: 
+linkedin_username:/ 
 github_username: c4p5
-youtube_channel_id: 
+youtube_channel_id:/ 
 reddit_username: ALLCAPS42
-behance_username: 
-dribbble_username: 
+behance_username:/ 
+dribbble_username:/ 
 
 # Google Analytics
 google-analytics: UA-163806439-1
@@ -40,9 +40,9 @@ disqus-shortname: /
 # Name of the Author
 author-name: Santiago CAPrioli
 # URL for the Image of the Author
-author-image: https://github.com/C4P5/CAPS.github.io/blob/master/assets/images/FHYO3759.JPG
+author-image: https://raw.githubusercontent.com/C4P5/CAPS.github.io/master/assets/images/FHYO3759.JPG
 # 60 Words About the Author
-author-about: Greetings. I am a stuff doer. I am learning how to do stuff. I like stuff well-done. Currently into blockchain, agrivoltaics, cryptocurrency and E-transportation stuff. Feel free to contact me, my resume is available upon request. Some hobbies include, espresso, sports and music. We'll work together if I like your stuff.
+author-about: Greetings. I am a stuff doer. I am learning how to do stuff. I like stuff well-done.  Currently into blockchain, agrivoltaics, cryptocurrency and E-transportation stuff. Feel free to contact me, my resume is available upon request.  Some hobbies include, espresso, sports and music. We'll surely work together if I like your stuff.
 author-url: https://github.com/C4P5
 
 #Project Card & Blog Post related
